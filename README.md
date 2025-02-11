@@ -18,16 +18,15 @@ Cross-entropy - classification
 Применить на пет-проекте по кредитному скорингу
 1. Naive bayes
 2. Knn
-3. Linear Classifier
-4. Logistic Regressor
-5. SVC
-6. DecisionTreeClassifier
-7. RandomForestClassifier
-8. GradientBoostingClassifier (sklearn)
-9. GradientBoosting (написанный ранее)
-10. xgboost
-11. catboost
-12. lightGBM
-13. AutoML
+3. Logistic Regressor
+4. SVC
+5. DecisionTreeClassifier
+6. RandomForestClassifier
+7. GradientBoostingClassifier (sklearn)
+8. GradientBoosting (написанный ранее)
+9. xgboost
+10. catboost
+11. lightGBM
+12. AutoML
 
 cv=5, random_state=42, cross_val_score with roc_auc
