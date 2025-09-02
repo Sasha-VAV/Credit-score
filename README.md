@@ -37,7 +37,7 @@ Implement and evaluate the following models on the credit scoring dataset:
 9. XGBoost
 10. CatBoost
 11. LightGBM
-12. An AutoML solution (e.g., TPOT or Auto-sklearn)
+12. AutoML (e.g., LightAutoML)
 
 ### Evaluation Protocol:
 - **Primary Metric:** ROC AUC score
